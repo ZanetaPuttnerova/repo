@@ -1,6 +1,6 @@
 # The Handmaid's Tale
 
-## Season 1
+## Season 1.1
 * Offred
 * Birth Day
 * Late
@@ -12,7 +12,7 @@
 * The Bridge
 * Night
 
-## Season 2
+## Season 2.1
 1. June
 1. Unwomen
 1. Baggage
